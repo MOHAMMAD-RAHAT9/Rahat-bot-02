@@ -4,26 +4,22 @@
   "accpetPending": false,
   "developermode": false,
   "language": "en",
-  "notification": false,
+  "notification": true,
   "approval": false,
-  "saveState": true,
-  "banMsg": false,
-  "adminOnlyMsg": false,
-  "BOTNAME": "𝙵𝙰𝚁𝙷𝙰𝙽-𝙱𝙾𝚃",
+  "BOTNAME": "𝚁𝙰𝙷𝙰𝚃 𝙱𝙾𝚃=/🩷🪽",
   "PREFIX": "/",
   "OPERATOR": [
-    "100069926588234",
-    "100089974857944"
+    "61550001988386",
+    "100000979260760"
   ],
   "ADMINBOT": [
-    "100069926588234",
-    "100089974857944"
+    "61550001988386",
+    ""
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
-  "notice": "dont cng author name and owner uid. otherwise bot not working",
-  "notice2": "if you run use email and password, use saveState false; otherwise, use saveState true"
+  "notice": "dont cng author name and owner uid. otherwise bot not working"
 }
